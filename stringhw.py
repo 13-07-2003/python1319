@@ -1,8 +1,8 @@
-r1, n1, m1 = 101, "Alice", 85
-r2, n2, m2 = 102, "Bob", 92
-r3, n3, m3 = 103, "Charlie", 78
-r4, n4, m4 = 104, "Daisy", 95
-r5, n5, m5 = 105, "Ethan", 88
+r1, n1, m1 = 101, "Abc", 85
+r2, n2, m2 = 102, "def", 92
+r3, n3, m3 = 103, "ghi", 78
+r4, n4, m4 = 104, "soham", 95
+r5, n5, m5 = 105, "vaishnavi", 88
 
 print("---------------------------")
 print(f"{'roll'} | {'name'} | {'marks'} |")
